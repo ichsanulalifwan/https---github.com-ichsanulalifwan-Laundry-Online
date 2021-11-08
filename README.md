@@ -1,9 +1,8 @@
 # Laundry OnLine
 
-### Anggota Kelompok :
-1. Nur Hasana Abunawas / D121181002
-2. Ichsanul Alifwan / D121181020
-3. Dandy Garda Dirgantara / D121181506
+## By :
+- <a href="https://github.com/ichsanulalifwan">Ichsanul Alifwan</a>
+- <a href="https://github.com/dandygardad">Dandy Garda Dirgantara</a>
 
 
 ### Manual dan Fitur 
