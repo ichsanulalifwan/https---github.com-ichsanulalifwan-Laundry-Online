@@ -1,10 +1,5 @@
 # Laundry OnLine
 
-## By :
-- <a href="https://github.com/ichsanulalifwan">Ichsanul Alifwan</a>
-- <a href="https://github.com/dandygardad">Dandy Garda Dirgantara</a>
-
-
 ### Manual dan Fitur 
 Manual :
 - Untuk pengguna yang baru pertama kali menggunakan Laundry OnLine, harus mendaftar dengan menekan tombol "Daftar Sekarang" di halaman awal website.
